@@ -1,9 +1,7 @@
 # React Portfolio
 
 ![License Badge](https://shields.io/badge/license-MIT-green)
-<!-- ![License Badge](https://img.shields.io/badge/-Express-000000?logo=express&style=flat&logoColor=white)
-![License Badge](https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=flat&logoColor=white)
-![License Badge](https://img.shields.io/badge/-Webpack-8DD6F9?logo=Webpack&style=flat&logoColor=white) -->
+![License Badge](https://img.shields.io/badge/-React-61DAFB?logo=React&syle=flat&logoColor=white)
 
 ## Description:
 A portfolio built using react, where I can show my personal web development projects.
