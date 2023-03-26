@@ -29,10 +29,11 @@ Once you have completed the steps listed above run:
 ```bash
 npm run start
 ```
-![img](./src/assets/ReactPortfolioAboutMe.png)
+
 ### Deployed Link:
+https://samualjensen.github.io/React-Portfolio/
 
-
+![img](./src/assets/ReactPortfolioAboutMe.png)
 ### License
 [MIT License](https://opensource.org/licenses/MIT)
 ### Contributing
