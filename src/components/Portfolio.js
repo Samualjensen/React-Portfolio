@@ -14,7 +14,7 @@ export default function Portfolio() {
                     <div className="desc">
                         <h2>Movies2Watch</h2>
                         <p>A webpage designed to make a movie choosing experience easier.</p>
-                        <p>Built with: </p>
+                        <p>Built with: HTML, CSS, Javascript. </p>
                     </div>
                     <a href='https://github.com/Samualjensen/Movies2Watch' target="_blank" rel="noreferrer noopener">
                         <img className='gitPic' src={gitPic} alt='GitHub icon' />
@@ -30,7 +30,7 @@ export default function Portfolio() {
                     <div className="desc">
                         <h2>Road Quest</h2>
                         <p>This webpage allows users to create and share roadtrip routes so that other users can look at your route and suggest stoppping points along the way.</p>
-                        <p>Built with: </p>
+                        <p>Built with: Handlebars, Javascript, Express, MySQL, Node, Sequelize, Pico CSS. </p>
                     </div>
                     <a href='https://github.com/Samualjensen/Road_Quest' target="_blank" rel="noreferrer noopener">
                         <img className='gitPic' src={gitPic} alt='GitHub icon' />
@@ -44,9 +44,9 @@ export default function Portfolio() {
 
                 <div className="project">
                     <div className="desc">
-                        <h2>Social Media API</h2>
+                        <h2>Social Network API</h2>
                         <p>API for a social network web application where users can share their thoughts, react to friend's thoughts, and create a friend list.</p>
-                        <p>Built with: </p>
+                        <p>Built with: Javascript, Node, Express, MongoDB. </p>
                     </div>
                     <a href='https://github.com/Samualjensen/Social-Network-API' target="_blank" rel="noreferrer noopener">
                         <img className='gitPic' src={gitPic} alt='GitHub icon' />
@@ -60,7 +60,7 @@ export default function Portfolio() {
                     <div className="desc">
                         <h2>JATE: Just Another Text Editor</h2>
                         <p>Text Editor is a single page web application that meets the PWA criteria, it is able to store persistant data as well as run offline.</p>
-                        <p>Built with: </p>
+                        <p>Built with: Node, Express, Webpack. </p>
                     </div>
                     <a href='https://github.com/Samualjensen/Text-Editor' target="_blank" rel="noreferrer noopener">
                         <img className='gitPic' src={gitPic} alt='GitHub icon' />
@@ -76,7 +76,7 @@ export default function Portfolio() {
                     <div className="desc">
                         <h2>Note Taker</h2>
                         <p>An application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.</p>
-                        <p>Built with: </p>
+                        <p>Built with: Javascript, Express. </p>
                     </div>
                     <a href='https://github.com/Samualjensen/Note-Taker' target="_blank" rel="noreferrer noopener">
                         <img className='gitPic' src={gitPic} alt='GitHub icon' />
@@ -92,7 +92,7 @@ export default function Portfolio() {
                     <div className="desc">
                     <h2>Employee Tracker</h2>
                     <p>A command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.</p>
-                    <p>Built with: </p>
+                    <p>Built with: Javascript, Express, Node, MySQL.</p>
                     </div>
                     <a href='https://github.com/Samualjensen/Employee-Tracker' target="_blank" rel="noreferrer noopener">
                         <img className='gitPic' src={gitPic} alt='GitHub icon' target="_blank" rel="noreferrer noopener" />
