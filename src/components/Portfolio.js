@@ -92,7 +92,7 @@ export default function Portfolio() {
                     <div className="desc">
                     <h2>Employee Tracker</h2>
                     <p>A command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.</p>
-                    <p>Built with: JavaScript, HTML, CSS</p>
+                    <p>Built with: </p>
                     </div>
                     <a href='https://github.com/Samualjensen/Employee-Tracker' target="_blank" rel="noreferrer noopener">
                         <img className='gitPic' src={gitPic} alt='GitHub icon' target="_blank" rel="noreferrer noopener" />
