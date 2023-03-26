@@ -29,7 +29,7 @@ Once you have completed the steps listed above run:
 ```bash
 npm run start
 ```
-
+![img](./src/assets/ReactPortfolioAboutMe.png)
 ### Deployed Link:
 
 
