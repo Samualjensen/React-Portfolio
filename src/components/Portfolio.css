@@ -1,0 +1,62 @@
+.figure {
+    min-height: 350px;
+    flex-grow: 1;
+    background-size: cover;
+    background-position: center;
+    border-radius: 2%;
+}
+
+#figure-movie {
+    background-image: url(../assets/movies2watch.png);
+}
+
+#figure-quest {
+    background-image: url(../assets/limitless-sea-80342.herokuapp.com_dashboard.png);
+}
+
+#figure-social {
+    background-image: url(../assets/social-media-api-screenshot.png);
+}
+
+#figure-jate {
+    background-image: url(../assets/cryptic-reef-18857.herokuapp.com_.png);
+}
+
+#figure-note {
+    background-image: url(../assets/note_taker_screenshot.png);
+}
+
+#figure-employee {
+    background-image: url(../assets/sqlemployeetrackerterminal2.png);
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.project {
+    background-color: grey;
+    border-style: solid;
+    margin: 10px 10px;
+    border-radius: 2%;
+    opacity: .7;
+    transition-duration: 0.4s;
+    color: white;
+    border-color: black;
+}
+
+.project-header {
+    text-align: center;
+}
+
+.project:hover {
+    opacity: 1;
+}
+
+.desc {
+    width: 90%;
+    margin: auto;
+}
