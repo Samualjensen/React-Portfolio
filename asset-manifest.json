@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.bb8f15a0.css",
+    "main.js": "/React-Portfolio/static/js/main.288e2ecd.js",
+    "static/media/mee.jpg": "/React-Portfolio/static/media/mee.a5bdb97dbba48b60fc8f.jpg",
+    "static/media/limitless-sea-80342.herokuapp.com_dashboard.png": "/React-Portfolio/static/media/limitless-sea-80342.herokuapp.com_dashboard.384f6ff4e87845cfd411.png",
+    "static/media/movies2watch.png": "/React-Portfolio/static/media/movies2watch.68bbcb338d4bb62ea814.png",
+    "static/media/social-media-api-screenshot.png": "/React-Portfolio/static/media/social-media-api-screenshot.94fb0f61146a62af50e1.png",
+    "static/media/sqlemployeetrackerterminal2.png": "/React-Portfolio/static/media/sqlemployeetrackerterminal2.4ed324ba077815b6ce82.png",
+    "static/media/SamJensenResume.pdf": "/React-Portfolio/static/media/SamJensenResume.978c474f5ef16c0ea1f8.pdf",
+    "static/media/note_taker_screenshot.png": "/React-Portfolio/static/media/note_taker_screenshot.8339dcf75c6fcc6f14fc.png",
+    "static/media/cryptic-reef-18857.herokuapp.com_.png": "/React-Portfolio/static/media/cryptic-reef-18857.herokuapp.com_.524c87658bdf0cd288bf.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.bb8f15a0.css.map": "/React-Portfolio/static/css/main.bb8f15a0.css.map",
+    "main.288e2ecd.js.map": "/React-Portfolio/static/js/main.288e2ecd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb8f15a0.css",
+    "static/js/main.288e2ecd.js"
+  ]
+}
