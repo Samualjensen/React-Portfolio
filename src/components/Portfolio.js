@@ -44,15 +44,15 @@ export default function Portfolio() {
 
                 <div className="project">
                     <div className="desc">
-                        <h2>Social Network API</h2>
-                        <p>API for a social network web application where users can share their thoughts, react to friend's thoughts, and create a friend list.</p>
-                        <p>Built with: Javascript, Node, Express, MongoDB. </p>
+                        <h2>Sherpa Group Records</h2>
+                        <p>This app provides a user-friendly interface where you can browse and stream our latest music releases, purchase merchandise securely with Stripe, and keep up to date with our upcoming concerts and events.</p>
+                        <p>Built with: React, GraphQL, Express, Node.js, MUI, Stripe, MongoDB, and the Spotify API. </p>
                     </div>
-                    <a href='https://github.com/Samualjensen/Social-Network-API' target="_blank" rel="noreferrer noopener">
+                    <a href='https://github.com/imjustSahen/Software-Sherpas' target="_blank" rel="noreferrer noopener">
                         <img className='gitPic' src={gitPic} alt='GitHub icon' />
                     </a>
                         <section>
-                            <figure className="figure" id="figure-social"></figure>
+                            <figure className="figure" id="figure-sherpa"></figure>
                         </section>
                 </div>
 
