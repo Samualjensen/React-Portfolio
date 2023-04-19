@@ -51,59 +51,61 @@ export default function Portfolio() {
                     <a href='https://github.com/imjustSahen/Software-Sherpas' target="_blank" rel="noreferrer noopener">
                         <img className='gitPic' src={gitPic} alt='GitHub icon' />
                     </a>
-                        <section>
-                            <figure className="figure" id="figure-sherpa"></figure>
-                        </section>
-                </div>
+                    <a href="https://sherpa-studios.herokuapp.com/" target="_blank" rel="noreferrer noopener">
+                    <section>
+                        <figure className="figure" id="figure-sherpa"></figure>
+                    </section>
+                </a>
+            </div>
 
-                <div className="project">
-                    <div className="desc">
-                        <h2>JATE: Just Another Text Editor</h2>
-                        <p>Text Editor is a single page web application that meets the PWA criteria, it is able to store persistant data as well as run offline.</p>
-                        <p>Built with: Node, Express, Webpack. </p>
-                    </div>
-                    <a href='https://github.com/Samualjensen/Text-Editor' target="_blank" rel="noreferrer noopener">
-                        <img className='gitPic' src={gitPic} alt='GitHub icon' />
-                    </a>
-                    <a href="https://cryptic-reef-18857.herokuapp.com/" target="_blank" rel="noreferrer noopener">
-                        <section>
-                            <figure className="figure" id="figure-jate"></figure>
-                        </section>
-                    </a>
+            <div className="project">
+                <div className="desc">
+                    <h2>JATE: Just Another Text Editor</h2>
+                    <p>Text Editor is a single page web application that meets the PWA criteria, it is able to store persistant data as well as run offline.</p>
+                    <p>Built with: Node, Express, Webpack. </p>
                 </div>
+                <a href='https://github.com/Samualjensen/Text-Editor' target="_blank" rel="noreferrer noopener">
+                    <img className='gitPic' src={gitPic} alt='GitHub icon' />
+                </a>
+                <a href="https://cryptic-reef-18857.herokuapp.com/" target="_blank" rel="noreferrer noopener">
+                    <section>
+                        <figure className="figure" id="figure-jate"></figure>
+                    </section>
+                </a>
+            </div>
 
-                <div className="project">
-                    <div className="desc">
-                        <h2>Note Taker</h2>
-                        <p>An application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.</p>
-                        <p>Built with: Javascript, Express. </p>
-                    </div>
-                    <a href='https://github.com/Samualjensen/Note-Taker' target="_blank" rel="noreferrer noopener">
-                        <img className='gitPic' src={gitPic} alt='GitHub icon' />
-                    </a>
-                    <a href="https://morning-garden-79320.herokuapp.com/" target="_blank" rel="noreferrer noopener">
-                        <section>
-                            <figure className="figure" id="figure-note"></figure>
-                        </section>
-                    </a>
+            <div className="project">
+                <div className="desc">
+                    <h2>Note Taker</h2>
+                    <p>An application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.</p>
+                    <p>Built with: Javascript, Express. </p>
                 </div>
+                <a href='https://github.com/Samualjensen/Note-Taker' target="_blank" rel="noreferrer noopener">
+                    <img className='gitPic' src={gitPic} alt='GitHub icon' />
+                </a>
+                <a href="https://morning-garden-79320.herokuapp.com/" target="_blank" rel="noreferrer noopener">
+                    <section>
+                        <figure className="figure" id="figure-note"></figure>
+                    </section>
+                </a>
+            </div>
 
-                <div className="project">
-                    <div className="desc">
+            <div className="project">
+                <div className="desc">
                     <h2>Employee Tracker</h2>
                     <p>A command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.</p>
                     <p>Built with: Javascript, Express, Node, MySQL.</p>
-                    </div>
-                    <a href='https://github.com/Samualjensen/Employee-Tracker' target="_blank" rel="noreferrer noopener">
-                        <img className='gitPic' src={gitPic} alt='GitHub icon' target="_blank" rel="noreferrer noopener" />
-                    </a>
-                        <section>
-                            <figure className="figure" id="figure-employee"></figure>
-                        </section>
                 </div>
-
+                <a href='https://github.com/Samualjensen/Employee-Tracker' target="_blank" rel="noreferrer noopener">
+                    <img className='gitPic' src={gitPic} alt='GitHub icon' target="_blank" rel="noreferrer noopener" />
+                </a>
+                <section>
+                    <figure className="figure" id="figure-employee"></figure>
+                </section>
             </div>
+
         </div>
+        </div >
 
     )
 
